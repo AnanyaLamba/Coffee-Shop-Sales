@@ -1,2 +1,2 @@
 # Coffee-Shop-Sales
-![Image](https://github.com/user-attachments/assets/2c3dc12b-7437-43b7-a224-79d3641adb48)
+![Image](https://github.com/user-attachments/assets/b8571768-cd2f-4710-b445-a7dd8d2a0128)
